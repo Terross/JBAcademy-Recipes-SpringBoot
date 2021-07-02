@@ -1,0 +1,26 @@
+recipes/security/SecurityUser.java
+ recipes.security.SecurityUser
+recipes/persistence/UserRepository.java
+ recipes.persistence.UserRepository
+recipes/Entity/Recipe.java
+ recipes.Entity.Recipe
+recipes/configure/SecurityConfig.java
+ recipes.configure.SecurityConfig
+recipes/controller/AuthController.java
+ recipes.controller.AuthController
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/persistence/RecipeRepository.java
+ recipes.persistence.RecipeRepository
+recipes/Entity/User.java
+ recipes.Entity.User
+recipes/businessLayer/UserService.java
+ recipes.businessLayer.UserService
+recipes/presentation/UserController.java
+ recipes.presentation.UserController
+recipes/security/UserDetailsServiceImpl.java
+ recipes.security.UserDetailsServiceImpl
+recipes/businessLayer/RecipeService.java
+ recipes.businessLayer.RecipeService
+recipes/presentation/RecipeController.java
+ recipes.presentation.RecipeController
